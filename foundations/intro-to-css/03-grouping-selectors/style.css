@@ -1,0 +1,14 @@
+.plain {
+    background-color: black;
+    color: white;
+}
+
+.jazzy {
+    background-color: yellow;
+}
+
+.plain,
+.jazzy {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
